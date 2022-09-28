@@ -16,5 +16,10 @@ namespace Prova_github_2
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Ciaoo Callegari!!!");
+        }
     }
 }
